@@ -13,13 +13,8 @@
   <h3 align="center">VMware Content Library Builder</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/recklessop/vmware-content-library-builder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/recklessop/vmware-content-library-builder">View Demo</a>
-    ·
     <a href="https://github.com/recklessop/vmware-content-library-builder/issues">Report Bug</a>
     ·
     <a href="https://github.com/recklessop/vmware-content-library-builder/issues">Request Feature</a>
