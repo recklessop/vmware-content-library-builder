@@ -49,7 +49,7 @@ This script was designed because I had a lot of ISOs to upload to lab environmen
 ### Built With
 
 * [Powershell](https://docs.microsoft.com/en-us/powershell/)
-* [PowerCLI](hhttps://code.vmware.com/web/tool/12.0.0/vmware-powercli)
+* [PowerCLI](https://code.vmware.com/web/tool/12.0.0/vmware-powercli)
 
 
 <!-- GETTING STARTED -->
