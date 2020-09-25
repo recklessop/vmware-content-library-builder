@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">VMware Content Library Builder</h3>
+  <h3 align="center">VMware vSphere Content Library Builder</h3>
 
   <p align="center">
     <a href="https://github.com/recklessop/vmware-content-library-builder/issues">Report Bug</a>
