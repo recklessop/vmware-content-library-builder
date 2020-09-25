@@ -82,9 +82,9 @@ git clone https://github.com/recklessop/vmware-content-library-builder.git
 
 Before running the script, edit the parameters at the top of the Powershell script
 
-Clone the repo to the machine where your ISOs are at.
+Simply Run the script after you have edited it.
 ```sh
-git clone https://github.com/recklessop/vmware-content-library-builder.git
+.\lib-builder.ps1
 ```
 
 
